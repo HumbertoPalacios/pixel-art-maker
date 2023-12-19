@@ -1,0 +1,39 @@
+.container {
+    display: grid;
+    place-items: center; /* Centers both horizontally and vertically */
+    height: 90vh; /* Optional: Full viewport height */   
+    
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+
+  .images1 {
+    padding-left: 80;
+  }
+
+  .images2 {
+    padding-left: 70;
+  }
+
+  img {
+    padding-bottom: 50;
+    width: 275;
+    height: 250;
+  }
+
+  .artTools {
+    padding-top: 20;
+  }
+
+  #colorPicker {
+    margin: 0;
+  }
+
+
+  
+
+
+
+
+  
+
